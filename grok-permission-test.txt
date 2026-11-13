@@ -1,0 +1,1 @@
+Grok connection test - full permissions working. You can safely delete this file.
